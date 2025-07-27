@@ -1021,17 +1021,13 @@ int pass=1234;
 
 int i,ch;
 char user[10]="Ravi000",pass5[10]="abc@9876",user1[10],pass6[10];
-
-//int gd=DETECT,gm;
-//initgraph(&gd,&gm,"C:\\Turboc3\\BGI");
-//setbkcolor(BLUE);
 paytm ob;
 ob.design();
  cout<<"Select your choice\n1.Login\t2.Sign up\n";
  cin>>ch;
  switch(ch)
  {
-case 1://cout<<"Login";
+case 1://"Login Section";
 	cout<<"Enter user id\n";
 	gets(user1);
 	cout<<"Enter password\n";
