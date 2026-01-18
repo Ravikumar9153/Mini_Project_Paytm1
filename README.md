@@ -1,2 +1,2 @@
-# Mini_Project_Paytm1
+# Mini_Project_Paytm
 It is mini project on paytm using c++ language.
